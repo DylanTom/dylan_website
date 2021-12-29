@@ -1,0 +1,14 @@
+.about {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.pfp {
+	align-items: center;
+	width: 30%;
+}
+
+.pfp:hover {
+	animation: shake 0.3s;
+	animation-iteration-count: infinite;
+  }
