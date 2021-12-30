@@ -1,5 +1,17 @@
 .main {
-	padding: 5%;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: lightblue;
+}
+
+.list {
+	list-style: none;
+}
+
+.listitem {
+	display: inline;
+	padding: 10%;
 }
 
 .button {
@@ -13,4 +25,8 @@
 
 .icon {
 	width: 32px;
+}
+
+.copy {
+	text-align: center;
 }

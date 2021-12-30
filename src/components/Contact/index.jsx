@@ -4,16 +4,17 @@ import github from "../../assets/github.png";
 import linkedin from "../../assets/linkedin.png";
 import twitter from "../../assets/twitter.png";
 import styles from "./index.module.css";
+
 const contacts = () => (
   <div className={styles.main}>
-    <ul>
-      <div id="Github">
+    <ul className = {styles.list}>
+      <div className = {styles.listitem} id="Github">
         <img src={github} alt="Github" className={styles.icon} />
         <a target="_blank" rel="noreferrer" href="https://github.com/DylanTom">
           Github
         </a>
       </div>
-      <div id="LinkedIn">
+      <div className = {styles.listitem} id="LinkedIn">
         <img src={linkedin} alt="LinkedIn" className={styles.icon} />
         <a
           target="_blank"
@@ -23,7 +24,7 @@ const contacts = () => (
           LinkedIn
         </a>
       </div>
-      <div id="Twitter">
+      <div className = {styles.listitem} id="Twitter">
         <img src={twitter} alt="Twitter" className={styles.icon} />
         <a
           target="_blank"
@@ -33,13 +34,14 @@ const contacts = () => (
           Twitter
         </a>
       </div>
-      <div id="Resume">
+      <div className = {styles.listitem} id="Resume">
         {/* <img src="" alt="Resume" className={styles.icon} /> */}
         <a target="_blank" rel="noreferrer" href={resume}>
           Resume
         </a>
       </div>
     </ul>
+    <p className = {styles.copy}>&copy; 2021 Dylan Tom</p>
   </div>
 );
 

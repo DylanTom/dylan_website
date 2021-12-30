@@ -1,6 +1,7 @@
 import React from "react";
 import me from "../../assets/pfp.JPG";
 import styles from "./index.module.css";
+
 const main = () => (
   <div className={styles.about}>
     <h1>Hi I'm Dylan!</h1>
@@ -27,7 +28,7 @@ const main = () => (
     <img src={me} className={styles.pfp} alt="me!" />
 
     <p>
-      Below is what I would like to call my "portfolio". It is all the projects
+      See "Portfolio". It is all the projects
       I have put siginficant time into. They may be good and they may be bad.
       When I look back at it in the future I hope that I can see where I came
       from. More importantly, while these projects may not be the best, I hope
