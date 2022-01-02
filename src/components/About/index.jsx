@@ -27,7 +27,7 @@ const main = () => (
 
     <p>
       See "Portfolio". It is all the projects
-      I have put siginficant time into. They may be good and they may be bad.
+      I have put significant time into. They may be good and they may be bad.
       When I look back at it in the future I hope that I can see where I came
       from. More importantly, while these projects may not be the best, I hope
       to showcase the little bits I learned from each project and give a

@@ -1,6 +1,6 @@
 .main {
 	overflow: hidden;
-	background-color: lightblue;
+	background-color: #A7C7E7;
 }
 
 .list {
@@ -12,9 +12,6 @@
 	padding: 10%;
 }
 
-.button {
-	color: black;
-}
 
 .main a {
 	color: #000000;
@@ -25,6 +22,6 @@
 	width: 32px;
 }
 
-.copy {
+.text {
 	text-align: center;
 }
