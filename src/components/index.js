@@ -1,3 +1,4 @@
-export {default as Nav} from './Nav/nav';
-export {default as Home} from './home';
-export {default as Portfolio} from './portfolio';
+export {default as Nav} from './Nav';
+export {default as About} from './About';
+export {default as Portfolio} from './Portfolio';
+export {default as Contact} from './Contact';

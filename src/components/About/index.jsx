@@ -9,13 +9,11 @@ const main = () => (
     <p>
       Hi! My name's Dylan and I am currently a freshman at Cornell University,
       Class of 2025. I am from Queens, NY and I love food and traveling. I went
-      to Bronx Science from 2017-2021. Read below to find more about me! If you
-      have any questions, shoot me an email or connect with me.
+      to Bronx Science from 2017-2021. Read below to learn more about me! If you have any questions, shoot me an email or connect with me.
     </p>
 
     <p>
-      What do I enjoy doing? As of 2021, I want to study computational biology
-      and computer science. One skill I hope to learn is some data
+      What do I enjoy doing? As of 2021, I want to study computer science with an emphasis on computational genomics. One skill I hope to learn is data
       visualization. Right now, I only know how to make basic graphs but would
       like to have a formal introduction to better communicate my data analysis.
       So, I might have some data science, machine learning, and other scripts

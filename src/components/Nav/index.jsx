@@ -2,12 +2,12 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import styles from "./index.module.css";
 
-function Navigation() {
+const nav = () => {
   return (
     <div className={styles.navigation}>
       <nav className={styles.navbar}>
         <div className={styles.container}>
-          <NavLink className={styles.navlink} to="/">
+          <NavLink className={styles.navlink} id={styles.title} to="/">
             Dylan Tom
           </NavLink>
           <div>
@@ -35,4 +35,4 @@ function Navigation() {
   );
 }
 
-export default Navigation;
+export default nav;

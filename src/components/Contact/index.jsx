@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../assets/Resume Fall 21.pdf";
+import resume from "../../assets/Resume/Dylan Tom_Winter 2021.pdf";
 import github from "../../assets/github.png";
 import linkedin from "../../assets/linkedin.png";
 import twitter from "../../assets/twitter.png";
@@ -41,6 +41,7 @@ const contacts = () => (
         </a>
       </div>
     </ul>
+    <p>Email: dt425[at]cornell[dot]edu</p>
     <p className = {styles.copy}>&copy; 2021 Dylan Tom</p>
   </div>
 );

@@ -1,0 +1,2 @@
+format nav and contact bar
+project card gallery

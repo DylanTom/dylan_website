@@ -1,10 +1,5 @@
 import React from "react";
-//import "./App.css";
-import Nav from "./components/Nav/nav";
-import About from "./components/About";
-import Portfolio from "./components/portfolio";
-import Contact from "./components/Contact";
-
+import {Nav, About, Portfolio, Contact} from './components';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 const App = () => (
