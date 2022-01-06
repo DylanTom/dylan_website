@@ -12,8 +12,8 @@ const portfolio = () => {
 		<div className='main'>
 			<h1>Portfolio</h1>
 			<p>Collection of all projects I have done</p>
-			<Project {...Games} />
-			<Project {...Alien}/>
+			<div className='games'><Project {...Games} /></div>
+			<div className="alien"><Project {...Alien}/></div>
 			<Project {...UsedCar} />
 			<Project {...Personal1}/>
 			<Project {...LOF}/>

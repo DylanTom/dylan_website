@@ -20,7 +20,9 @@ class Project extends React.Component {
 						<p>Summary: {this.props.summary}</p>
 					</div>
 					<div className="description">
-						<p>{this.props.description}</p>
+						<ul>
+							{this.props.description.map(function(bullet, index) {return <li>{bullet}</li>})}
+						</ul>
 					</div>
 					<div className="image">
 						<img src={this.props.img} alt="screenshot" />

@@ -7,7 +7,7 @@ const main = () => (
     <h1>Hi I'm Dylan!</h1>
 
     <p>
-      Hi! My name's Dylan and I am currently a freshman at Cornell University,
+      I am currently a freshman at Cornell University,
       Class of 2025. I am from Queens, NY and I love food and traveling. I went
       to Bronx Science from 2017-2021. Read below to learn more about me! If you have any questions, shoot me an email or connect with me.
     </p>

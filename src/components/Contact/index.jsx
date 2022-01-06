@@ -16,21 +16,16 @@ const contacts = () => (
         </a>
       </div>
       <div className = {styles.listitem} id="LinkedIn">
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://linkedin.com/in/dylan-tom"
-        >
+        <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/dylan-tom">
           <img src={linkedin} alt="LinkedIn" className = {styles.icon} />
           LinkedIn
         </a>
       </div>
+    </ul>
+
+    <ul className={styles.list}>
       <div className = {styles.listitem} id="Twitter">
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://twitter.com/dylantom_13"
-        >
+        <a target="_blank" rel="noreferrer" href="https://twitter.com/dylantom_13">
           <img src={twitter} alt="Twitter" className = {styles.icon} />
           Twitter
         </a>
@@ -42,7 +37,8 @@ const contacts = () => (
         </a>
       </div>
     </ul>
-    <p className = {styles.text}>Email: dt425[at]cornell[dot]edu</p>
+
+    <p className = {styles.text}>Email: dt425@cornell.edu</p>
     <p className = {styles.text}>&copy; 2021 Dylan Tom</p>
   </div>
 );
