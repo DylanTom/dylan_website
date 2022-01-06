@@ -12,12 +12,12 @@ const portfolio = () => {
 		<div className='main'>
 			<h1>Portfolio</h1>
 			<p>Collection of all projects I have done</p>
-			<div className='games'><Project {...Games} /></div>
-			<div className="alien"><Project {...Alien}/></div>
-			<Project {...UsedCar} />
-			<Project {...Personal1}/>
-			<Project {...LOF}/>
-			<Project {...Hearthstone}/>
+			<div className="games"><Project projectInfo = {Games}/></div>
+			<div className="alien"><Project projectInfo = {Alien}/></div>
+			<div className="usedcar"><Project projectInfo = {UsedCar}/></div>
+			<div className="personal1"><Project projectInfo = {Personal1}/></div>
+			<div className="lof"><Project projectInfo = {LOF}/></div>
+			<div className="hearthstone"><Project projectInfo = {Hearthstone}/></div>
 		</div>
 	);
 }

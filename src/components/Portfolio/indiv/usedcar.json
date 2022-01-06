@@ -4,5 +4,8 @@
     "duration": "5 weeks",
     "summary": "Performed explorative and predictive data analysis on a open source, unprocessed dataset.",
     "reflection": "This was the first project I worked in a small group of three for my information science class at Cornell University. We had to find an open source dataset which might not have been clean. There was a lot of noise we had to filter and we had to encode several categorical variables in order to perform numerical analysis. I gained experience using Github as a collaboration platform and used Jupyter notebook to document a \"storytelling\" of the dataset. Using knowledge from class lectures, we implemented different data visualizations and supervised machine learning algorithms.",
-    "link": "https://github.com/DylanTom/info-final-project"
+    "link": "https://github.com/DylanTom/info-final-project",
+    "description": ["Performed data filtering and processing on a large, open dataset", "Created visualizations that describe aspects of the dataset", "Added a linear regression model and a K-nearest neighbors analysis"],
+    "tags": [],
+    "img": []
 }

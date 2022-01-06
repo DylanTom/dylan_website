@@ -2,10 +2,10 @@
     "title": "Alien Invaders",
     "create": "FA21",
     "duration": "3 weeks",
-    "summary": "Created an \"Space Invaders\"-like game in Python for an introductory computer science course.",
+    "summary": "Created a \"Space Invaders\"-like game in Python for an introductory computer science course.",
     "reflection": "This project was a cumulative assignment for my intro CS class at Cornell which involved me implementing classes into a code skeleton. I had to use classes, define functions, write specifications, and understand APIs. Python structures that were utilized included: nested loops, coroutines, animation frames, and collisions. I gained experience in GUI applications and documenting my code. This allowed me to keep track of bugs and errors that arose during the development process.",
     "link": null,
-    "img": "/projectImage/alien1.png",
-    "description": {"1":"Read class documentation and APIs","2":"Designed helper functions to properly structure code", "3":"Using constants to improve redability of code", "4":"Programming animation and simple collisions","5":"Open-ended project that is not fully specified"},
+    "img": ["/projectImage/alien1.png","/projectImage/alien2.png"],
+    "description": ["Read class documentation and APIs","Designed helper functions to properly structure code", "Using constants to improve redability of code", "Programming animation and simple collisions","Open-ended project that is not fully specified"],
     "tags": ["Python", "Object Oriented Programming", "Game Development", "Open-Ended Project" ]
 }
