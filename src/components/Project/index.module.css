@@ -1,8 +1,20 @@
-.container{
+.links{
     text-decoration: none;
     color: black;
 }
 
 .image {
-    width: 256 px;
+    width: 25%;
+}
+
+.title {
+    color: darkcyan;
+}
+
+.tag ul{
+    list-style: none;
+}
+
+.tag li {
+    display: inline;
 }

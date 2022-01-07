@@ -5,7 +5,7 @@
     "summary": "Implemented a greedy heuristic algorithm to play the card game Hearthstone developed by Blizzard.",
     "reflection": "This was my first time seeing and using open source files. It was very difficult to understand the file structure. There's no official documentation similar to built in functions so I spent a lot of time reading through the files and understanding the mechnics in an entirely new syntax. There was only one file that I had to modify and that was the AI agent file. This was the first of many hiccups I encountered in this project. Another was implementing the functions. This was before I had any formal training in computer science so I didn't understand what classes and inheritance actually were, which made this project a lot harder. I also didn't know anything about efficient algorithms so as I look back at my code there were a lot of nested for loops and useless if statements. Now, I realize how important specifications are because they make sure the user and the definer understand what the function does and what the appropriate parameters are.",
     "link": "https://github.com/DylanTom/Hearthstone-AI",
-    "description": [],
+    "description": ["Utilized an open source framework", "Understood hundreds of lines of codes and learned how C# classes and functions can be implemented", "Resolved logical errors in implementation of strategies through debugging and white box testing", "Understood how to convert game rules and strategies into code"],
     "img": [],
-    "tags": []
+    "tags": ["open source", "C#", "debugging", "greedy heuristic algorithm"]
 }

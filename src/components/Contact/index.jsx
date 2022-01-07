@@ -8,38 +8,30 @@ import styles from "./index.module.css";
 
 const contacts = () => (
   <div className={styles.main}>
-    <ul className = {styles.list}>
-      <div className = {styles.listitem} id="Github">
+    <ul>
+      <li>
         <a target="_blank" rel="noreferrer" href="https://github.com/DylanTom">
           <img src={github} alt="Github" className = {styles.icon} />
-          Github
         </a>
-      </div>
-      <div className = {styles.listitem} id="LinkedIn">
+      </li>
+      <li>
         <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/dylan-tom">
           <img src={linkedin} alt="LinkedIn" className = {styles.icon} />
-          LinkedIn
         </a>
-      </div>
-    </ul>
-
-    <ul className={styles.list}>
-      <div className = {styles.listitem} id="Twitter">
+      </li>
+      <li>
         <a target="_blank" rel="noreferrer" href="https://twitter.com/dylantom_13">
           <img src={twitter} alt="Twitter" className = {styles.icon} />
-          Twitter
         </a>
-      </div>
-      <div className = {styles.listitem} id="Resume">
+      </li>
+      <li>
         <a target="_blank" rel="noreferrer" href={resume}>
           <img src={resumeImg} alt="Resume" className={styles.icon} />
-          Resume
         </a>
-      </div>
+      </li>
     </ul>
-
     <p className = {styles.text}>Email: dt425@cornell.edu</p>
-    <p className = {styles.text}>&copy; 2021 Dylan Tom</p>
+    <p className = {styles.text}>&copy;2022 Dylan Tom</p>
   </div>
 );
 

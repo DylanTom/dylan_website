@@ -4,16 +4,14 @@
 	align-items: center;
 }
 
-.list {
-	margin-left: 25%;
+.main ul{
 	list-style: none;
 }
 
-.listitem {
+.main li {
 	display: inline;
-	padding: 10%;
+	margin: 0% 5% 0% 5%;
 }
-
 
 .main a {
 	color: #000000;
