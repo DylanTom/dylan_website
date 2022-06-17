@@ -13,5 +13,5 @@ npm run deploy
 
 Deployment Page
 ```
-https://dylantom.github.io/dylan-website/
+https://dylantom.github.io/dylan_website/
 ```
