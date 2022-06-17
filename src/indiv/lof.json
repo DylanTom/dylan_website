@@ -5,7 +5,22 @@
     "summary": "Computationally analyzed genetic data to draw conclusions on loss of function genes.",
     "reflection": "There are a lot of lessons learned when I completed this research project. The most important one that still sticks with me is to properly store files and have a good organization system. If you happen to take a peek at the repository there doesn't appear to be any order or system to keep the files. From this project I learned to label files with data, scripts, or figures and to have a file management system in place before making files. In addition, I created simple data visualizations using matplotlib.pyplot and created scatter plots, bar charts, and pie charts. Creating multiple functions was hard and I ended up creating a bunch of redundant files which cluttered the project even more. When there is a function I might use but it is a draft, I should keep a document but only have one version up and running at a time. This was a hard research problem in which I felt I did not conclude as much as I wanted to but it was a very good experience.",
     "link": "https://github.com/DylanTom/InterpretationLoF",
-    "description": ["Analyzed a class of human genetic variants that created a nonsense mutation at the start of the protein", "Attempted to determine if there was a misclassification in the interpretation of pathogenicity in patients", "Learned to filter and clean large datasets", "Applied bioinformatic analyses to develop visualizations", "Drafted a technical document including literature review and interpretation of results"],
-    "img": ["/projectImage/research.png", "/projectImage/research2.png", "/projectImage/research3.png"],
-    "tags": ["bioinformatics", "Jupyter Notebook", "data science", "Python"]
+    "description": [
+        "Analyzed a class of human genetic variants that created a nonsense mutation at the start of the protein", 
+        "Attempted to determine if there was a misclassification in the interpretation of pathogenicity in patients", 
+        "Learned to filter and clean large datasets", 
+        "Applied bioinformatic analyses to develop visualizations", 
+        "Drafted a technical document including literature review and interpretation of results"
+    ],
+    "img": [
+        "/projectImage/research.png", 
+        "/projectImage/research2.png", 
+        "/projectImage/research3.png"
+    ],
+    "tags": [
+        "bioinformatics", 
+        "Jupyter Notebook", 
+        "data science", 
+        "Python"
+    ]
 }

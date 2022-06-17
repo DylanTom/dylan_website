@@ -9,6 +9,7 @@
 
 .title {
     color: darkcyan;
+    text-align: center;
 }
 
 .tag ul{
@@ -17,4 +18,12 @@
 
 .tag li {
     display: inline;
+}
+
+.container {
+    border-radius: 25px;
+	background: white;
+	padding: 20px;
+	margin: 10px;
+    text-align: left;
 }
