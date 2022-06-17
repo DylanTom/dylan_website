@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.fa8a6f4a.css",
-    "main.js": "./static/js/main.b25f3ec9.js",
+    "main.css": "./static/css/main.6ed7bb41.css",
+    "main.js": "./static/js/main.41f987e8.js",
+    "static/media/DylanTom_Resume_Spring22.pdf": "./static/media/DylanTom_Resume_Spring22.639a512b51c6bc240816.pdf",
     "static/media/pfp.JPG": "./static/media/pfp.61824b991671f9483744.JPG",
-    "static/media/Dylan Tom_Winter 2021.pdf": "./static/media/Dylan Tom_Winter 2021.f54144966c26e546e84a.pdf",
     "static/media/twitter.png": "./static/media/twitter.f963dcac51d5020e10f3.png",
     "index.html": "./index.html",
-    "main.fa8a6f4a.css.map": "./static/css/main.fa8a6f4a.css.map",
-    "main.b25f3ec9.js.map": "./static/js/main.b25f3ec9.js.map"
+    "main.6ed7bb41.css.map": "./static/css/main.6ed7bb41.css.map",
+    "main.41f987e8.js.map": "./static/js/main.41f987e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa8a6f4a.css",
-    "static/js/main.b25f3ec9.js"
+    "static/css/main.6ed7bb41.css",
+    "static/js/main.41f987e8.js"
   ]
 }
