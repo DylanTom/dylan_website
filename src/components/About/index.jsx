@@ -4,7 +4,8 @@ import styles from "./index.module.css";
 
 const main = () => (
   <div className={styles.about}>
-    <h1>Hi I'm Dylan!</h1>
+    <h1>Hi I'm Dylan! </h1>
+    <h1> Aspiring Software Engineer and System Designer</h1>
 
     <p>
       I am currently a sophomore at Cornell University,

@@ -1,0 +1,25 @@
+{
+    "title": "Reservations Required",
+    "create": "SU22",
+    "duration": "12 weeks",
+    "summary": "",
+    "reflection": "",
+    "link": "https://github.com/Reservations-Required/reserve-web",
+    "img": [
+ 
+    ],
+    "description": [
+
+    ],
+    "tags": [
+        "Typescript", 
+        "CSS",
+        "React",
+		"Frontend",
+		"Backend",
+		"System Design",
+		"Firebase",
+		"Node.js",
+		"Express.js"
+    ]
+}

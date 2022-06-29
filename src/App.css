@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:wght@400;700&display=swap');
+
 .App {
   text-align: center;
   width: 100%;
   display: block;
   overflow: hidden;
   background-color: rgb(110, 215, 228);
+  font-family: 'Lato', 'Open Sans', sans-serif;
 }

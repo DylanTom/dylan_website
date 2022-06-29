@@ -9,10 +9,11 @@ import UsedCar from '../../indiv/usedcar.json';
 import Personal1 from '../../indiv/personal1.json';
 import LOF from '../../indiv/lof.json';
 import Hearthstone from '../../indiv/hearthstone.json';
+import Reservation from '../../indiv/reserve.json';
 import styles from './index.module.css';
 
 const portfolio = () => {
-	const JSONINFO = [Personal3, FJ, Games, Alien, UsedCar, Personal1, LOF, Hearthstone]
+	const JSONINFO = [Reservation, Personal3, FJ, Games, Alien, UsedCar, Personal1, LOF, Hearthstone]
 	const JSONINFOMap = JSONINFO.map((e) => {
 		return <Grid item xs={1}><Project projectInfo={e} /></Grid>
 	});

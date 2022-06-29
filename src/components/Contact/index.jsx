@@ -11,17 +11,17 @@ const contacts = () => (
     <ul>
       <li>
         <a target="_blank" rel="noreferrer" href="https://github.com/DylanTom">
-          <img src={github} alt="Github" className = {styles.icon} />
+          <img src={github} alt="Github" className={styles.icon} />
         </a>
       </li>
       <li>
         <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/dylan-tom">
-          <img src={linkedin} alt="LinkedIn" className = {styles.icon} />
+          <img src={linkedin} alt="LinkedIn" className={styles.icon} />
         </a>
       </li>
       <li>
         <a target="_blank" rel="noreferrer" href="https://twitter.com/dylantom_13">
-          <img src={twitter} alt="Twitter" className = {styles.icon} />
+          <img src={twitter} alt="Twitter" className={styles.icon} />
         </a>
       </li>
       <li>
@@ -30,8 +30,9 @@ const contacts = () => (
         </a>
       </li>
     </ul>
-    <p className = {styles.text}>Email: dt425@cornell.edu</p>
-    <p className = {styles.text}>&copy;2022 Dylan Tom</p>
+    <button onClick={() => navigator.clipboard.writeText("dt425@cornell.edu")} className = "button">
+      dt425@cornell.edu</button>
+    <p className={styles.text}>&copy;2022 Dylan Tom</p>
   </div>
 );
 

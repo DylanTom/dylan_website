@@ -1,6 +1,11 @@
 import React from 'react';
 import styles from './index.module.css';
 import { Button } from '@mui/material';
+import { styled } from '@mui/system';
+
+const StyledButton = styled(Button)({
+	color: "black"
+});
 
 const Project = (props) => {
 	return (
@@ -31,7 +36,7 @@ const Project = (props) => {
 			</a>
 				<div className={styles.tag}>
 					<ul>
-						{props.projectInfo.tags.map(e => <li><Button>{e}</Button></li>)}
+						{props.projectInfo.tags.map(e => <li><StyledButton>{e}</StyledButton></li>)}
 					</ul>
 				</div>
 		</div>

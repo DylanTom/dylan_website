@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dylanwebsite-dev-125706-authRole",
+      "UnauthRoleArn": "arn:aws:iam::801237378297:role/amplify-dylanwebsite-dev-125706-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::801237378297:role/amplify-dylanwebsite-dev-125706-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-dylanwebsite-dev-125706-deployment",
+      "UnauthRoleName": "amplify-dylanwebsite-dev-125706-unauthRole",
+      "StackName": "amplify-dylanwebsite-dev-125706",
+      "StackId": "arn:aws:cloudformation:us-east-1:801237378297:stack/amplify-dylanwebsite-dev-125706/82833a30-f7cc-11ec-b32b-1299c54d05c9",
+      "AmplifyAppId": "dosrcnc43ei8u"
+    }
+  }
+}
