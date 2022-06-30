@@ -2382,6 +2382,11 @@
   "resolved" "https://registry.npmjs.org/alphanum-sort/-/alphanum-sort-1.0.2.tgz"
   "version" "1.0.2"
 
+"amplify@^0.0.11":
+  "integrity" "sha512-RkVzlUUUczGhjRWTX3QXEPzgPScdUXvmthgvcNpCQHfxshvxLPTdiLP6kLaUb/eo8IpnjLpKqUWxTIT97c8xew=="
+  "resolved" "https://registry.npmjs.org/amplify/-/amplify-0.0.11.tgz"
+  "version" "0.0.11"
+
 "ansi-colors@^4.1.1":
   "integrity" "sha512-JoX0apGbHaUJBNl6yF+p6JAFYZ666/hhCGKN5t9QFjbJQKUU/g8MNbFDbvfrgKXvI1QpZplPOnwIo99lX/AAmA=="
   "resolved" "https://registry.npmjs.org/ansi-colors/-/ansi-colors-4.1.1.tgz"
