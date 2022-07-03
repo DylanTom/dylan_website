@@ -1,7 +1,7 @@
 {
   "name": "dylan-website",
   "version": "0.1.0",
-  "homepage": "https://main.d447y8cvozmye.amplifyapp.com/#/",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
