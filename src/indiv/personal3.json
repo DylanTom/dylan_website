@@ -2,11 +2,11 @@
     "title": "Personal Website v3.0",
     "create": "2022",
     "duration": "6 weeks (but who's counting)",
-    "summary": "",
-    "reflection": "",
+    "summary": "I created a static, personal website using React and CSS.",
+    "reflection": "I enjoyed having the free time to make a personal website to showcase my work to others. One of the goals I had in mind for this project was deploying it on my own custom domain. After completing an AWS cloud services course, I understood what it took to deploy my website. However, theoretically it was easy but practically took more effort than initially anticipated. However, I neglected the time it took to design my personal website and jumped right into the implementation. This not only slowed down my production but the overall output is not up to my standard. In addition, due to lack of planning, I had issues organizing my data because it was hard to find a consistent organization system such that all the projects could follow the same format. I ended up settling for a JSON file which contained information like duration, summary, and reflections. As I reflect on this project, I realized that if I devote the same amount of effort into planning, the output would be a lot better. I should treat it as a system design process and plan out before jumping into the code.",
     "link": "https://github.com/DylanTom/dylan_website",
     "img": [
- 
+        
     ],
     "description": [
 

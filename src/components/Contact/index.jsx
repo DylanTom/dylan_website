@@ -1,10 +1,11 @@
 import React from "react";
-import resume from "../../assets/Resume/DylanTom_Resume_Spring22.pdf";
+import resume from "assets/Resume/DylanTom_Resume_Spring22.pdf";
 import github from "../../assets/github.png";
 import linkedin from "../../assets/linkedin.png";
 import twitter from "../../assets/twitter.png";
 import resumeImg from "../../assets/resumeImg.png";
 import styles from "./index.module.css";
+import { Button } from "@mui/material";
 
 const contacts = () => (
   <div className={styles.main}>
@@ -30,9 +31,9 @@ const contacts = () => (
         </a>
       </li>
     </ul>
-    <button onClick={() => navigator.clipboard.writeText("dt425@cornell.edu")} className = "button">
-      dt425@cornell.edu</button>
-    <p className={styles.text}>&copy;2022 Dylan Tom</p>
+    <Button onClick={() => navigator.clipboard.writeText("dt425@cornell.edu")} className = "button">
+      dt425@cornell.edu</Button>
+    <p className={styles.text}>&copy;{new Date().getFullYear()} Dylan Tom</p>
   </div>
 );
 

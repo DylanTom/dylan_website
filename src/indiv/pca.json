@@ -1,0 +1,20 @@
+{
+    "title": "Pediatric Cell Atlas",
+    "create": "SU22",
+    "duration": "6 weeks",
+    "summary": "",
+    "reflection": "",
+    "link": null,
+    "img": [
+
+    ],
+    "description": [
+
+    ],
+    "tags": [
+        "Dash",
+		"Plotly",
+		"Python",
+		"Elastic Search"
+    ]
+}
