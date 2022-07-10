@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "assets/Resume/DylanTom_Resume_Spring22.pdf";
+import resume from "../../assets/Resume/DylanTom_Resume_Spring22.pdf";
 import github from "../../assets/github.png";
 import linkedin from "../../assets/linkedin.png";
 import twitter from "../../assets/twitter.png";
