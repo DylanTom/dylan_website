@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../../assets/pfp.JPG";
+import me from "../../assets/pfp.png";
 import styles from "./index.module.css";
 
 const main = () => (
