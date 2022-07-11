@@ -10,7 +10,7 @@ import Personal1 from '../../indiv/personal1.json';
 import LOF from '../../indiv/lof.json';
 import Hearthstone from '../../indiv/hearthstone.json';
 import Reservation from '../../indiv/reserve.json';
-import PCA from '../../indiv/reserve.json';
+import PCA from '../../indiv/pca.json';
 import styles from './index.module.css';
 
 const portfolio = () => {

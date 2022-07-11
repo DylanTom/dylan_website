@@ -6,6 +6,12 @@ import twitter from "../../assets/twitter.png";
 import resumeImg from "../../assets/resumeImg.png";
 import styles from "./index.module.css";
 import { Button } from "@mui/material";
+import { styled } from "@mui/system";
+
+const StyledButton = styled(Button)({
+  borderRadius: '20px',
+  border: '1px solid black'
+});
 
 const contacts = () => (
   <div className={styles.main}>
@@ -31,8 +37,8 @@ const contacts = () => (
         </a>
       </li>
     </ul>
-    <Button onClick={() => navigator.clipboard.writeText("dt425@cornell.edu")} className = "button">
-      dt425@cornell.edu</Button>
+    <StyledButton onClick={() => navigator.clipboard.writeText("dt425@cornell.edu")} className = "button">
+      dt425@cornell.edu</StyledButton>
     <p className={styles.text}>&copy;{new Date().getFullYear()} Dylan Tom</p>
   </div>
 );
