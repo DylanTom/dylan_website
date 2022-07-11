@@ -5,23 +5,29 @@ import styles from "./index.module.css";
 const main = () => (
   <div className={styles.about}>
     <h1>Hi I'm Dylan! </h1>
-    <h1> Aspiring Software Engineer and System Designer</h1>
+    <h1> Software Engineer and System Designer</h1>
 
     <p>
       I am currently a sophomore at Cornell University,
-      class of 2025. I am from Queens, NY and I love food, traveling, sports, video games, and planes. I graduated from Bronx Science in 2021. Read below to learn more about me! If you have any questions, shoot me an email or connect with me on LinkedIn.
+      class of 2025. I am from Queens, NY and I love food, traveling, sports, video games, and planes. I also graduated from Bronx Science in 2021. Read below to learn more about me! If you have any questions, shoot me an email or connect with me on LinkedIn.
     </p>
 
     <p>
-      <b>What do I enjoy doing?</b> As of 2022, I want to study computer science and mathematics with a concentration in software engineering and web development. I also intend to pursue a business minor. One skill I hope to learn is data
-      visualization. Right now, I only know how to make basic graphs but would
-      like to have a formal introduction to better communicate my data analysis.
-      So, I might have some data science, machine learning, and other scripts
-      sprinkled into this website. As I continue in my college career and personal development, I want to explore all fields of computer science as I find it very interesting. 
+      <b>What am I doing right now?</b> Currently, I am taking functional programming, real analysis, and digital logic &amp; computer organization. I am also working on a few personal projects right now:
+      <ul>
+        <li>Reservations Required: a web app to streamline reserving spaces at Cornell</li>
+        <li>PCA: a web app to host datasets for pediatric skeletal muscle. Working in collaboration with Lek Lab @ Yale University</li>
+        <li>Becoming AWS Cloud Developer certified</li>
+      </ul>
+    </p>
+
+    <p>
+      <b>What do I enjoy doing?</b> As of 2022, I want to study computer science and mathematics with a concentration in software engineering and web development. I also intend to pursue a business minor. I might have some data science, machine learning, and other scripts
+      sprinkled into this website. As I continue in my college career and personal development, I want to explore all fields of computer science as I find it very interesting.  
     </p>
     
     <p>
-      <b>What did I use to do?</b> I don't even know where to begin. Let's start off with Bronx Science. I played trumpet for four years during high school and two years in middle school. I enjoy traveling and learning about different cultures. I've been to England, Iceland, France, Norway, Spain, Italy, Mexico, the Caribbean, China, Japan, and last but not least, Canada. I hope to travel to more places after COVID settles down. Maybe (strong emphasis on the maybe) you will see a blog page pop up. 
+      <b>What did I use to do?</b> I don't even know where to begin. Let's start off with Bronx Science. I played trumpet for four years during high school and two years in middle school. I enjoy traveling and learning about different cultures. I've been to England, Iceland, France, Norway, Spain, Italy, Mexico, the Caribbean, China, Japan, and Canada. I hope to travel to more places after COVID settles down. Maybe (strong emphasis on the maybe) you will see a blog page pop up. 
     </p>
 
     <p>
