@@ -1,17 +1,7 @@
 # Personal Website
-Dylan Tom
 
-To start
-```
-npm start
-```
+Update: September 23, 2022
 
-To deploy
-```
-npm run deploy
-```
+Deployed @ https://www.dylantom.com
 
-Deployment Page
-```
-https://dylantom.github.io/dylan_website/
-```
+&copy; Dylan Tom
