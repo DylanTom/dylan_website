@@ -1,5 +1,5 @@
 # Personal Website
-@ Dylan Tom
+Dylan Tom
 
 To start
 ```
