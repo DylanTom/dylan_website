@@ -1,6 +1,6 @@
 # Personal Website
 
-Update: July 3, 2022
+Update: September 23, 2022
 
 Deployed @ https://www.dylantom.com
 

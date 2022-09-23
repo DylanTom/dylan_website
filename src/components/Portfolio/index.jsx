@@ -11,10 +11,12 @@ import LOF from '../../indiv/lof.json';
 import Hearthstone from '../../indiv/hearthstone.json';
 import Reservation from '../../indiv/reserve.json';
 import PCA from '../../indiv/pca.json';
+import SVD from '../../indiv/svd.json';
+import EDGI from '../../indiv/edgi.json';
 import styles from './index.module.css';
 
 const portfolio = () => {
-	const JSONINFO = [PCA, Reservation, Personal3, FJ, Games, Alien, UsedCar, Personal1, LOF, Hearthstone]
+	const JSONINFO = [SVD, EDGI, PCA, Reservation, Personal3, FJ, Games, Alien, UsedCar, Personal1, LOF, Hearthstone]
 	const JSONINFOMap = JSONINFO.map((e) => {
 		return <Grid item xs={1}><Project projectInfo={e} /></Grid>
 	});

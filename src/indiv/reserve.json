@@ -2,11 +2,11 @@
     "title": "Reservations Required",
     "create": "SU22",
     "duration": "12 weeks",
-    "summary": "In Progress",
-    "reflection": "",
+    "summary": "Given a product requirements document and feasability report, we implemented a reservation management system and the accompanying web application. In collaboration with a designer, we used Figma as the ideation space. The technical stack composed of React in the frontend, Node.js in the backend, Express as our middleware, and firebase as the database. We adopted a three-tier client-server-database model when developing this system.",
+    "reflection": "I think one thing that I did too fast was jump into the implementation. We didn't take the necessary time to plan and jumped on making things right away rather than setting up. As a result, there were many cases where we had to repeat things we've done before or we had to redo entire components just because of how early we were doing things. I enjoyed having the opportunity to learn about different tech stacks. I got a high level overview of the availble technologies and made a decision on which to use for this project. Once that was decided I really enjoyed having the high level overview of the project. Usually as a developer we don't know where our component fits into the longer project. I feel that this is important to know and as I progress in my career I will always have the focus of 'why is this part that I am working on important'.",
     "link": "https://github.com/Reservations-Required/reserve-web",
     "img": [
- 
+        "/projectImage/reserve1.png"
     ],
     "description": [
 
