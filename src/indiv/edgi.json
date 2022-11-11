@@ -2,9 +2,9 @@
     "title": "Environmental Data and Governance Initiative",
     "create": "FA22",
     "duration": "12 weeks",
-    "summary": "",
-    "reflection": "",
-    "link": "",
+    "summary": "The Environmental Data Governance Initiative (EDGI) seeks to ensure that all areas of the United States have equal access to environmental justice. The plan is to adapt the existing codebase to simplify the way a region’s report card is generated. Next, we created new report card generators that analyze industry data that comes from EJ Screen. Finally, we refactored and rewrote existing code to improve readability.",
+    "reflection": "In Progress",
+    "link": "https://github.com/jacobdotpng/H4I-EEW-ReportCard-Data",
     "img": [
     ],
     "description": [
@@ -12,6 +12,7 @@
     ],
     "tags": [
         "Python",
-		"Jupyter Notebook"
+		"Jupyter Notebook",
+        "R"
     ]
 }
