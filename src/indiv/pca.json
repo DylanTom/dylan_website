@@ -1,12 +1,13 @@
 {
     "title": "Pediatric Cell Atlas",
     "create": "SU22",
-    "duration": "6 weeks",
-    "summary": "In Progress",
+    "duration": "18 weeks",
+    "summary": "The following proposed web tool intends to improve on, but not replace, the existing scMuscle website. We want to address the current challenges of development and improve user performance considering the future outlook of the utilization of high memory datasets. The initial objective of development is to achieve all predefined functions in the functionality statement. Successful implementation will be demonstrated by a comparable user experience, improved memory performance, and ease in future researchers adding their own datasets. ",
     "reflection": "",
-    "link": null,
+    "link": "https://github.com/leklab/czi_skeletal_muscle_cell_atlas",
     "img": [
-
+        "/projectImage/pca1.png",
+        "/projectImage/pca2.png"
     ],
     "description": [
 

@@ -2,16 +2,17 @@
     "title": "CS 3110 Final Project",
     "create": "FA22",
     "duration": "12 weeks",
-    "summary": "In Progress",
+    "summary": "Our current vision for the system we’re building is a terminal-based application that scrapes data from websites providing bus services such as MegaBus and OurBus and outputs all available routes based on user input. This application will also have filtering features based on start date, end date, time, location, price, and relevancy. The application will eventually have some form of automatic ranking system to rank all available bus routes for the user based on the parameters entered.",
     "reflection": "In Progress",
     "link": "https://github.com/DylanTom/svd",
     "img": [
- 
+
     ],
     "description": [
 
     ],
     "tags": [
-        "OCaml"
+        "OCaml",
+        "Github"
     ]
 }
